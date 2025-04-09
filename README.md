@@ -1,4 +1,4 @@
 - This Java program implements a command-line Tic-Tac-Toe game where a human player competes against an AI opponent. The code initializes a 3×3 board and uses a continuous game loop to accept the player's moves, update the board, and then trigger the AI's turn. The AI uses the minimax algorithm to evaluate potential moves and choose the optimal move, while helper methods are provided to check for wins, draws, and remaining moves. The game concludes by evaluating the final board state and announcing the winner or a draw.
 - Here's a sample output for this tic-tac-toe game:
-  <img width="319" alt="Screenshot 2025-04-09 at 4 46 19 PM" src="https://github.com/user-attachments/assets/bce60184-0cb4-446f-8671-bec5b1cd4655" />
-<img width="305" alt="Screenshot 2025-04-09 at 4 46 25 PM" src="https://github.com/user-attachments/assets/b2ffb2cd-7854-4f2c-8690-56668bcb7f6e" />
+  - <img width="319" alt="Screenshot 2025-04-09 at 4 46 19 PM" src="https://github.com/user-attachments/assets/bce60184-0cb4-446f-8671-bec5b1cd4655" />
+  - <img width="305" alt="Screenshot 2025-04-09 at 4 46 25 PM" src="https://github.com/user-attachments/assets/b2ffb2cd-7854-4f2c-8690-56668bcb7f6e" />
